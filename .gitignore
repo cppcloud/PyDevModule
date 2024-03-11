@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 安装器的日志
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 虚拟环境 (uncomment if you use one)
+# .env
+venv/
+# PyCharm 配置文件
+.idea/
+
+# Spyder 配置文件
+.spyderproject/
+.spyproject
+
+# VSCode 配置文件
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyTest
+.pytest_cache/
+
+# pytest artifacts
+test-results/
+
+# mypy
+.mypy_cache/
+
+# pyenv
+.python-version
+
+# celery
+celerybeat-schedule.*
+celerybeat.pid
+
+# Flask
+instance/
+.webassets-cache
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+
+# 还有一些操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PyBuilder
+target/
