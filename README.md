@@ -14,7 +14,7 @@ Welcome to the Python Utility Components Repository! This repository is dedicate
 To use the components in this repository, you can either clone the entire repository or download specific components as needed. Ensure that you have Python installed on your system.
 
 ```shell
-[git clone https://github.com/cppcloud/PyDevModule.git](https://github.com/cppcloud/PyDevModule.git)
+git clone https://github.com/cppcloud/PyDevModule.git
 ```
 
 ## Usage
