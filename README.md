@@ -16,7 +16,7 @@ PyDevModule的主要特点包括：
 
 将仓库克隆到本地机器：
 ```
-git clone https://github.com/your-github-username/PyDevModule.git
+git clone https://github.com/cppcloud/PyDevModule.git
 ```
 
 导航到克隆的目录：
